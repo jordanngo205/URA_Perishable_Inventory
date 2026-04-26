@@ -18,11 +18,6 @@ The current version models:
 - continuous review as the main operating baseline
 - periodic review as a benchmark reference
 
-## Repository Description
-
-Suggested GitHub repo description:
-
-`Simulation and LaTeX report for a two-node perishable inventory model comparing delayed transshipment vs. emergency warehouse ordering under surge demand.`
 
 ## Files
 
@@ -35,11 +30,6 @@ Suggested GitHub repo description:
 - `final_report.pdf`  
   Compiled PDF of the main report.
 
-- `final_report_walkthrough.tex`  
-  Plain-English presentation guide for walking professors through the report.
-
-- `final_report_walkthrough.pdf`  
-  Compiled PDF of the walkthrough.
 
 ## Main Modeling Idea
 
@@ -130,11 +120,6 @@ Compile the main report:
 tectonic final_report.tex
 ```
 
-Compile the presentation walkthrough:
-
-```bash
-tectonic final_report_walkthrough.tex
-```
 
 ## What the Results Show
 
